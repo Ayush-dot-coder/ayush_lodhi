@@ -1,4 +1,2 @@
 # ayush_lodhi
-this is my first repository.
-<br>
-author- ayush lodhi
+console.log("welcome to github program");
